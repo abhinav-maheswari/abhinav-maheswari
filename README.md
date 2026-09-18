@@ -51,5 +51,5 @@ More projects and experiments coming as I continue learning.
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Abhinav Bhootra]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/abhinav-bhootra-data-science/))
+- LinkedIn: [Abhinav Bhootra](https://www.linkedin.com/in/abhinav-bhootra-data-science/)
 - Email: abhinavbhootra.ds@gmail.com
